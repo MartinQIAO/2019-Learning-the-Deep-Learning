@@ -8,8 +8,10 @@ I've been reading some papers here and there related to Sequential Modeling prob
 
 # Structure of this repo
 
-### 1. Best Academic Paper to Read
-### 2. Best Blog Articles
-### 3. My own notes to sort out the journey of the model development
-### 4. Code level understanding
-### 5. Examples to get hands dirty
+## 1. Recommended reading path
+
+### Journey of the model design: RNN --> Seq2Seq --> LSTM --> Attention --> Transformer
+
+## 2. Best papers to read
+## 3. My own interpretation and notes
+## 4. Examples to get hands dirty
